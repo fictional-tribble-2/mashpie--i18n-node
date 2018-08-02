@@ -955,7 +955,7 @@ i18n.configure({
 });
 ```
 
-[![NPM](https://nodei.co/npm/i18n.svg?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/i18n/)
+[![NPM](https://nodei.co/npm/i18n.svg?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/i18n/) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/mashpie--i18n-node.svg)](https://www.staging.guardrails.io)
 
 ## Changelog
 
